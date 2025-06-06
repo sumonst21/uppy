@@ -71,7 +71,7 @@
     "tinyify": "^2.4.3",
     "tsify": "^4.0.1",
     "typescript": "^2.9.2",
-    "verdaccio": "^3.11.4",
+    "verdaccio": "^6.1.2",
     "watchify": "^3.11.0",
     "wdio-mocha-framework": "^0.6.4",
     "wdio-sauce-service": "^0.4.12",
